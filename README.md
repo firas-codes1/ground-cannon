@@ -1,5 +1,5 @@
 # ground-cannon
-Inspired by Low Orbit Ion Cannon (LOIC), Ground Cannon is a denial-of-service attack tool. Written using Python 3.10.7 
+Written using Python 3.10.7 
 
 -Allows user to send Ping, TCP, or UDP packets. 
 
